@@ -3,9 +3,9 @@
 ---
 
 ## ✍️ Author
-Name : Gudla Chakradhara Venkata Sairam
-Roll No : DA25M012
-Department : Data Science and Artificial Intelligence, M.Tech
+Name : Gudla Chakradhara Venkata Sairam  
+Roll No : DA25M012  
+Department : Data Science and Artificial Intelligence, M.Tech  
 
 ---
 
@@ -49,7 +49,7 @@ Performance was evaluated on the **minority class** using **Precision, Recall, a
 |-----------|-----------|---------|----------|
 | Baseline  | 0.829     | 0.643   | 0.724    |
 | GMM       | 0.080     | 0.908   | 0.146    |
-| CBU + GMM | 0.093     | 0.888   | 0.168    |
+| CBU + GMM | 0.086     | 0.898   | 0.157    |
 
 ---
 
